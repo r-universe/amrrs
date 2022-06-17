@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coinmarketcapr",
+    "oncran": true
+  },
+  {
+    "package": "randquotes",
+    "oncran": true
+  }
+]
