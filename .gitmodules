@@ -5,6 +5,3 @@
 [submodule "coinmarketcapr"]
 	path = coinmarketcapr
 	url = https://github.com/amrrs/coinmarketcapr
-[submodule "randquotes"]
-	path = randquotes
-	url = https://github.com/amrrs/randquotes
